@@ -1,0 +1,26 @@
+﻿
+<h4>Arama</h4>
+@using (Html.BeginForm("BlogAra", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+    <div class="input-group">
+        <input id="Ara" name="Ara" type="text" class="form-control">
+        <span class="input-group-btn">
+            <button class="btn btn-default" value="Ara" type="submit">Ara</button>
+            <span class="glyphicon glyphicon-search"></span>
+        </span>
+    </div>
+    @*<div class="card my-4">
+        <h5 class="card-header">Arama</h5>
+        <div class="card-body">
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="Search for...">
+                <span class="input-group-btn">
+                    <button class="btn btn-secondary" type="button">Ara</button>
+                </span>
+            </div>
+        </div>
+    </div>*@
+
+}
+

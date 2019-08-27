@@ -1,0 +1,483 @@
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\ApplicationInsights.config
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\roslyn\csc.exe
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\roslyn\vbc.exe
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\MvcBlog.dll.config
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\MvcBlog.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\MvcBlog.pdb
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\System.Web.Helpers.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\System.Web.Mvc.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\System.Web.Razor.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\System.Web.Webpages.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.xml
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.xml
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.xml
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\System.Web.Razor.xml
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\System.Web.Webpages.xml
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.xml
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.xml
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\System.Web.Helpers.xml
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\System.Web.Mvc.xml
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\obj\Debug\MvcBlog.dll
+c:\users\pau.desktop-gkcd9f7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\obj\Debug\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\EntityFramework.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\EntityFramework.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\documents\visual studio 2015\Projects\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\ApplicationInsights.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\roslyn\csc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\roslyn\vbc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\MvcBlog.dll.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\EntityFramework.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\System.Web.Helpers.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\System.Web.Mvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\System.Web.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\EntityFramework.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\System.Web.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\System.Web.Helpers.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\bin\System.Web.Mvc.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\16.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csprojResolveAssemblyReference.cache
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\ApplicationInsights.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\roslyn\csc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\roslyn\vbc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\MvcBlog.dll.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\EntityFramework.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\System.Web.Helpers.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\System.Web.Mvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\System.Web.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\EntityFramework.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\System.Web.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\System.Web.Helpers.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\bin\System.Web.Mvc.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\18.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csprojResolveAssemblyReference.cache
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\ApplicationInsights.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\roslyn\csc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\roslyn\vbc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\MvcBlog.dll.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\EntityFramework.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\System.Web.Helpers.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\System.Web.Mvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\System.Web.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\EntityFramework.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\System.Web.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\System.Web.Helpers.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\System.Web.Mvc.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\PagedList.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\PagedList.Mvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\PagedList.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\bin\PagedList.Mvc.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\19.gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csprojResolveAssemblyReference.cache
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\ApplicationInsights.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\roslyn\csc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\roslyn\vbc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\MvcBlog.dll.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\AspNet.Mvc.Grid.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\EntityFramework.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\PagedList.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\PagedList.Mvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\System.Web.Helpers.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\System.Web.Mvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\System.Web.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\EntityFramework.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\PagedList.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\PagedList.Mvc.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\System.Web.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\System.Web.Helpers.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\System.Web.Mvc.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\bin\GridMvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\20.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csprojResolveAssemblyReference.cache
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\ApplicationInsights.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\roslyn\csc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\roslyn\vbc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\MvcBlog.dll.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\AspNet.Mvc.Grid.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\EntityFramework.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\GridMvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\PagedList.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\PagedList.Mvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\System.Web.Helpers.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\System.Web.Mvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\System.Web.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\EntityFramework.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\PagedList.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\PagedList.Mvc.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\System.Web.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\System.Web.Helpers.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\bin\System.Web.Mvc.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\21.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csprojResolveAssemblyReference.cache
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\ApplicationInsights.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\roslyn\csc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\roslyn\vbc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\MvcBlog.dll.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\AspNet.Mvc.Grid.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\EntityFramework.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\GridMvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\PagedList.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\PagedList.Mvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\System.Web.Helpers.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\System.Web.Mvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\System.Web.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\EntityFramework.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\PagedList.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\PagedList.Mvc.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\System.Web.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\System.Web.Helpers.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\bin\System.Web.Mvc.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csprojResolveAssemblyReference.cache
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\22.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\ApplicationInsights.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\roslyn\csc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\roslyn\vbc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\MvcBlog.dll.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\AspNet.Mvc.Grid.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\EntityFramework.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\GridMvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\PagedList.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\PagedList.Mvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\System.Web.Helpers.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\System.Web.Mvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\System.Web.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\EntityFramework.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\PagedList.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\PagedList.Mvc.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\System.Web.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\System.Web.Helpers.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\bin\System.Web.Mvc.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csprojResolveAssemblyReference.cache
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\ApplicationInsights.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\roslyn\csc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\roslyn\vbc.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\MvcBlog.dll.config
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\MvcBlog.pdb
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\AspNet.Mvc.Grid.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\EntityFramework.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\GridMvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\PagedList.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\PagedList.Mvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\System.Web.Helpers.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\System.Web.Mvc.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\System.Web.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\System.Web.Webpages.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\EntityFramework.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\PagedList.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\PagedList.Mvc.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\System.Web.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\System.Web.Webpages.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\System.Web.Webpages.Razor.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\System.Web.Helpers.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\bin\System.Web.Mvc.xml
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csprojResolveAssemblyReference.cache
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\obj\Debug\MvcBlog.dll
+C:\Users\Pau.DESKTOP-GKCD9F7\Documents\burak\23.Gün(ikinci bölüm)\MvcBlog\MvcBlog\obj\Debug\MvcBlog.pdb

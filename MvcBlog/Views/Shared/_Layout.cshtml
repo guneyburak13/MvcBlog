@@ -1,0 +1,160 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>MVC Blog</title>
+    <!-- Bootstrap core CSS -->
+    <link href="~/Content/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Custom styles for this template -->
+    <link href="~/Content/css/blog-home.css" rel="stylesheet" />
+    <link href="~/Content/cite.css" rel="stylesheet" />
+    <link href="~/wwwroot/css/Gridmvc.css" rel="stylesheet" />
+    <script src="~/wwwroot/js/gridmvc.js"></script>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
+        <div class="container">
+            <a class="navbar-brand" href="/Home/Index">MVC Blog</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/Home/Index/">
+                            Home
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Home/Hakkımızda">Hakkımızda</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Home/Iletisim">İletişim</a>
+                    </li>
+
+
+                    @if (Session["uyeid"] != null)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Uye/Index/@Session["uyeid"]"><span class="glyphicons-user"></span>@Session["kullaniciadi"]</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Uye/Logout">Çıkış</a>
+                        </li>
+                        if (Convert.ToInt32(Session["yetkiid"]) == 1)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" href="/Admin/Index">Admin Paneli</a>
+                            </li>
+                        }
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Uye/Login">Giriş</a>
+                        </li>
+                    }
+
+                </ul>
+
+
+
+                <ul class="nav navbar-right top-nav">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i>@Session["kullaniciadi"]<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            @if (Session["uyeid"] != null)
+                            {
+                                <li>
+                                    <a href="/Uye/Index/@Session["uyeid"]">@Session["kullaniciadi"]<i class="fa fa-fw fa-user"></i> Profil</a>
+                                </li>
+                                <li class="divider"></li>
+                                <li>
+                                    <a href="/Uye/Logout/"><i class="fa fa-fw fa-power-off"></i>Çıkış</a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa fa-fw fa-envelope"></i> Inbox</a>
+                                </li>
+                                <li>
+                                    <a href="/Admin/Index/" target="_blank"><i class="fa fa-fw fa-gear"></i>Admin Paneli</a>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="divider"></li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/Uye/Login">Giriş</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/Uye/Create">Kayıt Ol</a>
+                                </li>
+                            }
+                                
+                            </ul>
+                        </li>
+
+                    </ul>
+
+
+                </div>
+            </div>
+        </nav>
+    <!-- Page Content -->
+                                <div class="container">
+
+                                    @RenderBody()
+                                    <!-- Blog Post -->
+                                    <!-- Sidebar Widgets Column -->
+                                    <div class="col-md-4">
+                                        <!-- Search Widget -->
+
+                                        <div class="well">
+
+
+                                            @Html.Partial("~/Views/Home/BlogAraPartial.cshtml")
+                                        </div>
+                                        <!-- Categories Widget -->
+                                        <div class="well">
+                                            @{
+                                                Html.RenderAction("KategoriPartial", "Home");
+                                            }
+
+                                        </div>
+
+
+                                        <div class="well">
+                                            @{
+                                                Html.RenderAction("PopulerMakaleler", "Home");
+                                            }
+                                        </div>
+                                        <div class="well">
+                                            @{
+                                                Html.RenderAction("SonYorumlar", "Home");
+                                            }
+                                        </div>
+                                    </div>
+                                </div>
+    <!-- /.row -->
+    <!-- /.container -->
+    <!-- Footer -->
+                                                <footer class="py-5 bg-dark">
+                                                    <div class="container">
+                                                        <p class="m-0 text-center text-white">Copyright &copy; @DateTime.Now.Year</p>
+                                                    </div>
+                                                    <!-- /.container -->
+                                                </footer>
+    <!-- Bootstrap core JavaScript -->
+                                                <script src="~/scripts/gridmvc.min.js"></script>
+                                                <script src="~/scripts/jquery.min.js"></script>
+                                                <script src="~/scripts/bootstrap.bundle.min.js"></script>
+                                            </body>
+                                        </html>
